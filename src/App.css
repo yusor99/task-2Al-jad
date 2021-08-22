@@ -1,0 +1,43 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	text-align: left;
+	padding: 1rem;
+	background-color: #8d94a1;
+}
+
+.App-content {
+	background-color: #282c34;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: left;
+	font-size: calc(10px + 2vmin);
+	color: white;
+	padding: 1rem;
+	border-bottom: 3px solid orange;
+}
+
+.App-section {
+	background-color: #282c34;
+	font-size: calc(10px + 2vmin);
+	color: white;
+	padding: 1rem;
+}
+
+.App-img {
+	display: table;
+	margin: auto;
+	margin-top: 2rem;
+}
+.App-banner-wrapper {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+.App-banner {
+	background-color: yellow;
+	color: black;
+	padding: 1rem;
+}
